@@ -1,1 +1,1 @@
-# CODSOFT
+# CODSOFT web development internship tasks
